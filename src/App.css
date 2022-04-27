@@ -1,0 +1,22 @@
+@import './components/home.css';
+
+/* * {
+     outline: 1px solid rgb(245, 182, 182);
+} */
+*div {
+    display: unset;
+}
+.column {
+    float: left;
+    width: 50%;
+  }
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+*{
+    text-align: center;
+}

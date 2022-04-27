@@ -1,0 +1,16 @@
+.dp-inline{
+    display:inline;
+}
+
+.w-450{
+    width: 450px;
+}
+
+.p-ab{
+    position: absolute;
+}
+
+.over-screen{
+    overflow: scroll;
+    height :730px;
+}
